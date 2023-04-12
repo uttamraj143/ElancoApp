@@ -1,0 +1,30 @@
+.main{
+    padding: 20;
+}
+.main .headers{
+    width: 99%;
+    text-align: center;
+    height: 5vh;
+}
+.main .headertitledropdown{
+    width: 99%;
+    display: flex;
+    height: 7vh;
+}
+
+.headertitledropdownDiv1{
+    width: 55%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titleheader{
+    font-size: "16px"
+}
+ .headertitledropdownDiv2{
+    width: 55%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
